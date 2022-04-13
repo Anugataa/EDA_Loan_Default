@@ -42,8 +42,8 @@ Also, we need to understand the driving factors (or driver variables) behind loa
 - Among the existing records, Maximum applications have the purpose of ‘Repair”
 
 'My Overall Analysis' :
--People with lower total income are most likely to default. Please, avoid approving these loans.
--Applications with applicant having Lower secondary education should be rejected.
--Maximum People with a secondary education are non-defaulters.
--Working type applicants are less likely to default.
--Applicants around age 30-45 are the highest among non-defaulters.
+- People with lower total income are most likely to default. Please, avoid approving these loans.
+- Applications with applicant having Lower secondary education should be rejected.
+- Maximum People with a secondary education are non-defaulters.
+- Working type applicants are less likely to default.
+- Applicants around age 30-45 are the highest among non-defaulters.
